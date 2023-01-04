@@ -65,3 +65,5 @@ The applied models were:
 The XG Boosting Classifier outperformed all the models
 
 [Click Here for Google Colab link](https://colab.research.google.com/github/Advaith2049/Bank-Term-Deposit-Prediction-Using-Machine-Learning/blob/main/Bank-Term-Deposit-Prediction-Using-Machine-Learning.ipynb)
+
+[Click Here for the Power Point Presentation](https://drive.google.com/file/d/1E7f_I1t8PrlKrghppOrU15tBuawbrps0/view?usp=sharing)
