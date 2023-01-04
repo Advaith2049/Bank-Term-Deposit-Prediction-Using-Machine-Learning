@@ -41,9 +41,7 @@ After the data was loaded in with pandas, it was cleaned, and the following chan
 
 ### **EDA (Exploratory Data Analysis)**
 
-Some highlights of the EDA are as follows:
-
-![image info](/images/1.png)
+EDA was performed extensively to gather insights into the data
 
 
 ### **Model Building**
